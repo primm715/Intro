@@ -1,0 +1,136 @@
+/* Page Body Styles */
+
+
+
+body {
+   
+background-color: 
+   
+width:
+    
+padding-left:
+
+padding-right:
+margin: 
+  
+font-family: 
+   
+font-size: 
+   
+color:
+
+}
+
+
+
+h1{
+
+
+
+}
+
+
+
+a {
+
+text-decoration: none;
+
+}
+
+
+
+/* Page Header Styles */
+
+
+
+header {
+  
+width: 
+  
+text-align: 
+
+height:
+
+}
+
+
+
+/* Paragraph Styles */
+
+
+
+
+
+/* Navigation Styles */
+
+
+
+nav ul {
+   
+list-style:
+
+text-decoration: 
+ 
+padding: 
+   
+width: 
+
+text-align: 
+    
+margin: 
+}
+
+
+nav li {
+  
+width:
+
+float: 
+   
+text-align:
+list-style: 
+
+margin: 
+
+text-decoration:
+ 
+}
+
+
+nav a,
+nav a:visited {
+   
+height: 
+  
+text-align: 
+
+text-decoration: 
+    
+color: 
+ 
+font-weight:
+font-size:
+  
+padding: 
+
+}
+
+
+
+
+/*Footer Styles*/
+
+
+
+footer {
+
+width: 
+   
+clear: 
+    
+text-align:
+padding: 
+   
+font:
+
+}
