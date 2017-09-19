@@ -1,0 +1,113 @@
+/* Page Body Styles */
+
+.container {
+   width: auto;
+    margin: auto;
+    font-family: Arial
+    font-size:
+    color: black;
+
+}
+
+
+img{
+background-image: url("images/MSA.jpg");
+background-repeat:no-repeat;
+background-color: rgb(112,173,71);
+float: left;
+width: 200px;
+height: 200px;
+}
+
+img{
+text-align:center;
+float: left;
+clear: right;
+}
+
+a {
+text-decoration: none;
+}
+
+
+/* Paragraph Styles */
+
+p, h1 {
+text-align: center;
+font-weight: 400;
+font-size: 25px;
+color: black;
+}
+/* Page Header Styles */
+
+.heading {
+background-color: rgb(112,173,71);
+width: 100%;
+text-align: center;
+height: 100%;
+font-family:Postino STD
+border: RGB (47,82,143);
+}
+
+h1 {
+font-size: 50px;
+font-family:Postino STD
+}
+
+h2 {
+color: white;
+font-size: 25px;
+font-family:Postino STD
+}
+
+.btn-group {
+      background: white;
+      color: black;
+      font-family: Postino STD;
+   text-align: center;
+   }
+.btn-group:hover {
+color: blue;
+}
+
+* Navigation Styles */
+
+container nav ul {
+    list-style:
+    text-decoration: none;
+    padding:
+    width:
+    text-align: center;
+    margin:
+}
+nav li {
+    width:
+    float:
+    text-align: center;
+    list-style:
+    margin:
+    text-decoration:
+}
+nav a,
+nav a:visited {
+    height:
+    text-align: center;
+    text-decoration:
+    color:
+    font-weight:
+    font-size:
+    padding:
+}
+
+
+/*Footer Styles*/
+
+footer {
+background-color: rgb(112,173,71);
+border: RGB (47,82,143);
+width:
+clear:
+text-align:
+padding:
+font-family: Arial
+}
